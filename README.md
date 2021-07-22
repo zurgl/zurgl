@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zurgl
 - 👀 I’m interested in rust and nextjs
 - 🌱 I’m currently learning rust and nextjs
-- 💞️ I’m looking to collaborate on ML
+- 💞️ I’m looking to collaborate on Blockchain related topic
 - 📫 How to reach me 
 
 <!---
