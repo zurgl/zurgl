@@ -2,7 +2,6 @@
 - 👀 I’m interested in rust and nextjs
 - 🌱 I’m currently learning rust and nextjs
 - 💞️ I’m looking to collaborate on Blockchain related topic
-- 📫 How to reach me 	elayar.yacine@gmail.com
 
 <!---
 zurgl/zurgl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
