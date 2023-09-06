@@ -1,5 +1,3 @@
-*Oh my God, I'm still alive, just going back from pur hell, nearly 100 days without coding. I'm so lucky to be able to write this*
-
 - 👋 Hi, I’m @zurgl
 - 👀 I’m interested in rust and nextjs
 - 🌱 I’m currently learning rust and nextjs and pyTorch
