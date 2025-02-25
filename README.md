@@ -13,5 +13,6 @@ Stuff put online
 
 - [landing](https://yacine.elayar.fr)
 - [rs-dom](https://dom.elayar.fr)
+- [ai-generated](https://ai-generated-front.vercel.app)
 
 ![](https://komarev.com/ghpvc/?username=zurgl)
